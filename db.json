@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "0b5a",
+      "name": "Anurag",
+      "email": "anurag@gmail.com",
+      "mobile": "823728378",
+      "course": "JFS",
+      "city": "Gzb."
+    },
+    {
+      "id": "023a",
+      "name": "Naman",
+      "email": "naman@gmail.com",
+      "mobile": "2329382389",
+      "course": "Html",
+      "city": "Mohannagar"
+    },
+    {
+      "id": "9c79",
+      "name": "Aman",
+      "email": "aman@gmail.com",
+      "mobile": "237263762",
+      "course": "SQL",
+      "city": "Delhi"
+    }
+  ]
+}

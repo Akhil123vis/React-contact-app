@@ -1,0 +1,13 @@
+{
+  "name": "api-01-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "api":"json-server --watch db.json "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}
